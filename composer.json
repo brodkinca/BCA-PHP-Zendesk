@@ -2,7 +2,7 @@
     "name": "bca/zendesk",
     "type": "library",
     "description": "Zendesk API abstraction for PHP applications.",
-    "keywords": ["api","Zendesk"],
+    "keywords": ["api","client","cURL","Zendesk","REST"],
     "homepage": "https://github.com/brodkinca/BCA-PHP-Zendesk",
     "license": "MIT",
     "authors": [
