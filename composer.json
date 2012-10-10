@@ -1,5 +1,5 @@
 {
-    "name": "BCA/Zendesk",
+    "name": "bca/zendesk",
     "type": "library",
     "description": "Zendesk API abstraction for PHP applications.",
     "keywords": ["api","Zendesk"],
