@@ -15,4 +15,9 @@
         <const name="AUTH_TOKEN" value="token"/>
         <const name="AUTH_SUBDOMAIN" value="subdomain"/>
     </php>
+    <testsuites>
+      <testsuite>
+        <directory>tests</directory>
+      </testsuite>
+    </testsuites>
 </phpunit>
